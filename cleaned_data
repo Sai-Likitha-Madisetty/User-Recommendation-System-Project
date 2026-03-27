@@ -1,0 +1,514 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Amit",
+            "friends": [
+                2,
+                3
+            ],
+            "liked_pages": [
+                101
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Priya",
+            "friends": [
+                1,
+                4
+            ],
+            "liked_pages": [
+                102
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Sara",
+            "friends": [
+                2
+            ],
+            "liked_pages": [
+                104
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Rahul",
+            "friends": [
+                7,
+                8
+            ],
+            "liked_pages": [
+                101
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Neha",
+            "friends": [
+                6,
+                9
+            ],
+            "liked_pages": [
+                102,
+                103
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Kiran",
+            "friends": [
+                6
+            ],
+            "liked_pages": [
+                105
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Pooja",
+            "friends": [
+                11,
+                12
+            ],
+            "liked_pages": [
+                107
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Arjun",
+            "friends": [
+                10
+            ],
+            "liked_pages": [
+                108
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Meera",
+            "friends": [
+                10,
+                13
+            ],
+            "liked_pages": [
+                109
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Suresh",
+            "friends": [
+                12
+            ],
+            "liked_pages": [
+                110
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Divya",
+            "friends": [
+                15
+            ],
+            "liked_pages": [
+                111
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Nikhil",
+            "friends": [
+                14
+            ],
+            "liked_pages": [
+                112
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Sneha",
+            "friends": [
+                17,
+                18
+            ],
+            "liked_pages": [
+                101
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Manoj",
+            "friends": [
+                16
+            ],
+            "liked_pages": [
+                102
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Keerthi",
+            "friends": [
+                16,
+                19
+            ],
+            "liked_pages": [
+                103
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Ramesh",
+            "friends": [
+                18
+            ],
+            "liked_pages": [
+                104
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Lakshmi",
+            "friends": [
+                21
+            ],
+            "liked_pages": [
+                105
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Tarun",
+            "friends": [
+                20
+            ],
+            "liked_pages": [
+                106
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Bhavana",
+            "friends": [
+                23
+            ],
+            "liked_pages": [
+                107
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Pradeep",
+            "friends": [
+                25
+            ],
+            "liked_pages": [
+                109
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Harsha",
+            "friends": [
+                24
+            ],
+            "liked_pages": [
+                110
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Deepa",
+            "friends": [
+                27
+            ],
+            "liked_pages": [
+                111
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Varun",
+            "friends": [
+                26,
+                28
+            ],
+            "liked_pages": [
+                112
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Swathi",
+            "friends": [
+                27
+            ],
+            "liked_pages": [
+                101
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Gopi",
+            "friends": [
+                30
+            ],
+            "liked_pages": [
+                102
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Sanjay",
+            "friends": [
+                29
+            ],
+            "liked_pages": [
+                103
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Anusha",
+            "friends": [
+                32
+            ],
+            "liked_pages": [
+                104
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Amit",
+            "friends": [
+                31
+            ],
+            "liked_pages": [
+                105
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Priya",
+            "friends": [
+                34
+            ],
+            "liked_pages": [
+                106
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Rahul",
+            "friends": [
+                33
+            ],
+            "liked_pages": [
+                107
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Neha",
+            "friends": [
+                35
+            ],
+            "liked_pages": [
+                109
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Kiran",
+            "friends": [
+                38
+            ],
+            "liked_pages": [
+                110
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Pooja",
+            "friends": [
+                37
+            ],
+            "liked_pages": [
+                111
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Arjun",
+            "friends": [
+                40
+            ],
+            "liked_pages": [
+                112
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Meera",
+            "friends": [
+                39
+            ],
+            "liked_pages": [
+                101
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Suresh",
+            "friends": [
+                42
+            ],
+            "liked_pages": [
+                102
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Divya",
+            "friends": [
+                41
+            ],
+            "liked_pages": [
+                103
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Nikhil",
+            "friends": [
+                44
+            ],
+            "liked_pages": [
+                104
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Sneha",
+            "friends": [
+                43
+            ],
+            "liked_pages": [
+                105
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Manoj",
+            "friends": [
+                46
+            ],
+            "liked_pages": [
+                106
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Keerthi",
+            "friends": [
+                45
+            ],
+            "liked_pages": [
+                107
+            ]
+        },
+        {
+            "id": 47,
+            "name": "Ramesh",
+            "friends": [
+                48
+            ],
+            "liked_pages": [
+                108
+            ]
+        },
+        {
+            "id": 48,
+            "name": "Lakshmi",
+            "friends": [
+                47
+            ],
+            "liked_pages": [
+                109
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Tarun",
+            "friends": [
+                50
+            ],
+            "liked_pages": [
+                110
+            ]
+        },
+        {
+            "id": 50,
+            "name": "Bhavana",
+            "friends": [
+                49
+            ],
+            "liked_pages": [
+                111
+            ]
+        }
+    ],
+    "pages": [
+        {
+            "id": 101,
+            "name": "Python Developers"
+        },
+        {
+            "id": 102,
+            "name": "Data Science Enthusiasts"
+        },
+        {
+            "id": 103,
+            "name": "AI & ML Community"
+        },
+        {
+            "id": 104,
+            "name": "Web Development"
+        },
+        {
+            "id": 105,
+            "name": "Cloud Computing"
+        },
+        {
+            "id": 106,
+            "name": "Cyber Security"
+        },
+        {
+            "id": 107,
+            "name": "Deep Learning"
+        },
+        {
+            "id": 108,
+            "name": "Frontend Developers"
+        },
+        {
+            "id": 109,
+            "name": "Backend Engineers"
+        },
+        {
+            "id": 110,
+            "name": "DevOps Community"
+        },
+        {
+            "id": 111,
+            "name": "Big Data"
+        },
+        {
+            "id": 112,
+            "name": "System Design"
+        }
+    ]
+}

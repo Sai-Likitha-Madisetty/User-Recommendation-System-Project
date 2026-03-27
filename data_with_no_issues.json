@@ -1,0 +1,51 @@
+{
+  "users": [
+    {"id": 1, "name": "Amit", "friends": [2, 3, 4], "liked_pages": [101, 102]},
+    {"id": 2, "name": "Priya", "friends": [1, 5, 6], "liked_pages": [102, 103]},
+    {"id": 3, "name": "Rahul", "friends": [1, 7, 8], "liked_pages": [101, 104]},
+    {"id": 4, "name": "Sara", "friends": [1, 9], "liked_pages": [105]},
+    {"id": 5, "name": "Kiran", "friends": [2, 6, 10], "liked_pages": [101, 106]},
+    {"id": 6, "name": "Anjali", "friends": [2, 5, 11], "liked_pages": [102, 107]},
+    {"id": 7, "name": "Vikram", "friends": [3, 8, 12], "liked_pages": [103, 108]},
+    {"id": 8, "name": "Neha", "friends": [3, 7, 13], "liked_pages": [104, 109]},
+    {"id": 9, "name": "Ravi", "friends": [4, 10, 14], "liked_pages": [105, 110]},
+    {"id": 10, "name": "Pooja", "friends": [5, 9, 15], "liked_pages": [106, 111]},
+
+    {"id": 11, "name": "Arjun", "friends": [6, 12, 16], "liked_pages": [107, 112]},
+    {"id": 12, "name": "Meera", "friends": [7, 11, 17], "liked_pages": [108]},
+    {"id": 13, "name": "Suresh", "friends": [8, 14, 18], "liked_pages": [109]},
+    {"id": 14, "name": "Divya", "friends": [9, 13, 19], "liked_pages": [110]},
+    {"id": 15, "name": "Nikhil", "friends": [10, 16, 20], "liked_pages": [111]},
+    {"id": 16, "name": "Sneha", "friends": [11, 15, 21], "liked_pages": [112]},
+    {"id": 17, "name": "Manoj", "friends": [12, 18, 22], "liked_pages": [101]},
+    {"id": 18, "name": "Keerthi", "friends": [13, 17, 23], "liked_pages": [102]},
+    {"id": 19, "name": "Ramesh", "friends": [14, 20, 24], "liked_pages": [103]},
+    {"id": 20, "name": "Lakshmi", "friends": [15, 19, 25], "liked_pages": [104]},
+
+    {"id": 21, "name": "Tarun", "friends": [16, 22, 26], "liked_pages": [105]},
+    {"id": 22, "name": "Bhavana", "friends": [17, 21, 27], "liked_pages": [106]},
+    {"id": 23, "name": "Pradeep", "friends": [18, 24, 28], "liked_pages": [107]},
+    {"id": 24, "name": "Harsha", "friends": [19, 23, 29], "liked_pages": [108]},
+    {"id": 25, "name": "Deepa", "friends": [20, 26, 30], "liked_pages": [109]},
+    {"id": 26, "name": "Varun", "friends": [21, 25], "liked_pages": [110]},
+    {"id": 27, "name": "Swathi", "friends": [22, 28], "liked_pages": [111]},
+    {"id": 28, "name": "Gopi", "friends": [23, 27], "liked_pages": [112]},
+    {"id": 29, "name": "Sanjay", "friends": [24, 30], "liked_pages": [101]},
+    {"id": 30, "name": "Anusha", "friends": [25, 29], "liked_pages": [102]}
+  ],
+
+  "pages": [
+    {"id": 101, "name": "Python Developers"},
+    {"id": 102, "name": "Data Science Enthusiasts"},
+    {"id": 103, "name": "AI & ML Community"},
+    {"id": 104, "name": "Web Dev Hub"},
+    {"id": 105, "name": "Cloud Computing"},
+    {"id": 106, "name": "Cyber Security"},
+    {"id": 107, "name": "Deep Learning"},
+    {"id": 108, "name": "Frontend Developers"},
+    {"id": 109, "name": "Backend Engineers"},
+    {"id": 110, "name": "DevOps Community"},
+    {"id": 111, "name": "Big Data Analytics"},
+    {"id": 112, "name": "System Design"}
+  ]
+}
